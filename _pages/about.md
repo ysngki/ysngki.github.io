@@ -19,9 +19,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-A CS Master student in Harbin Institue of Technology, Shenzhen, China.
+I am currently a Master student in Harbin Institue of Technology, Shenzhen, China.
+
+My research interests mainly lie on sentence representation and large language models.
 
 My Chinese blog is [here](https://www.cnblogs.com/ysngki/).
+
+I welcome everyone to get in touch with me.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
