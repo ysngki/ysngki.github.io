@@ -25,7 +25,7 @@ My research interests mainly lie on sentence representation and large language m
 
 My Chinese blog is [here](https://www.cnblogs.com/ysngki/).
 
-I welcome everyone to get in touch with me.
+Feel free to reach out to me anytime! (email: ysngkil@gmail.com)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
