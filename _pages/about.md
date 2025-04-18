@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_7237.JPG
   image_circular: false # crops the image to make it circular
   # address: >
   #   <p>555 your office number</p>
@@ -19,17 +19,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently a Master student in Harbin Institue of Technology, Shenzhen, China.
+I am a first-year PhD student at the Institute of Science Tokyo (formerly Tokyo Institute of Technology), working under the supervision of Professor Arase. I completed both my Bachelor's and Master's degrees at Harbin Institute of Technology.
 
-My research interests mainly lie on sentence representation and large language models.
+My research interests mainly lie on efficienct and reliable LLMs capable of learning from experience.
 
-My Chinese blog is [here](https://www.cnblogs.com/ysngki/).
-
-Feel free to reach out to me anytime! (email: ysngkil@gmail.com)
+Feel free to contact me at ysngkil@gmail.com (\*^▽^\*)
 
 ---
 
-有事也好，有乐子也好，尽管联系我(\*^▽^\*)
+有事也好，有乐子也好，尽管联系我~
 
 QQ: 940716916
 
