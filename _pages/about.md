@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a first-year PhD student at the Institute of Science Tokyo (formerly Tokyo Institute of Technology), working under the supervision of Professor Arase. I completed both my Bachelor's and Master's degrees at Harbin Institute of Technology.
+I am a first-year PhD student at the Institute of Science Tokyo (formerly Tokyo Institute of Technology), working under the supervision of Professor Arase. I completed both my Bachelor's and Master's degrees at Harbin Institute of Technology, Shenzhen.
 
 My research interests mainly lie on efficienct and reliable LLMs capable of learning from experience.
 
@@ -27,11 +27,9 @@ Feel free to contact me at ysngkil@gmail.com (\*^▽^\*)
 
 ---
 
-有事也好，有乐子也好，尽管联系我~
-
-QQ: 940716916
-
 微信：ysngki
+
+欢迎联系～(∠・ω< )
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
