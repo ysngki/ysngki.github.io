@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a first-year PhD student at the Institute of Science Tokyo (formerly Tokyo Institute of Technology), working under the supervision of Professor Arase. I completed both my Bachelor's and Master's degrees at Harbin Institute of Technology, Shenzhen.
 
-My research interests mainly lie on efficienct and reliable LLMs capable of learning from experience.
+My research interests mainly lie on efficienct LLMs capable of learning from experience.
 
 Feel free to contact me at ysngkil@gmail.com (\*^▽^\*)
 
